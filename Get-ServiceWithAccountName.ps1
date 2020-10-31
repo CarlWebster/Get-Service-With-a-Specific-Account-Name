@@ -141,7 +141,7 @@
 #>
 
 
-#Created by Carl Webster, CTP and Sr. Solutions Architect for Choice Solutions 30-Mar-2017
+#Created by Carl Webster, CTP 30-Mar-2017
 #webster@carlwebster.com
 #@carlwebster on Twitter
 #http://www.CarlWebster.com
